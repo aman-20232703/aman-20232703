@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amankumar" target="blank"><img src="https://img.shields.io/twitter/follow/amankumar?logo=twitter&style=for-the-badge" alt="amankumar" /></a> </p>
 
-- 🔭 I’m currently working on [National Park web fullstack project](coming soon)
+- 🔭 I’m currently working on **National Park website fullstack project**(coming soon)
 
 - 🌱 I’m currently learning **Data-science**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **my learning tools**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at **at my portfolio- ....**(coming soon)
 
 - 💬 Ask me about **AI-tools**
 
