@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **National Park website fullstack project**(coming soon)
 
-- 🌱 I’m currently learning **Data-science**
+- 🌱 I’m currently learning **Data-science project**
 
 - 👯 I’m looking to collaborate on **AL\ML & Data Science Intern as well as Front-End Projects**
 
