@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **AI-tools**
 
-- 📫 How to reach me **ar96788234@GMAIL.COM**
+- 📫 How to reach me **ar96788234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
