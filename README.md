@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **AI-tools**
 
-- 📫 How to reach me **ar96788234@gmail.com | https://www.linkedin.com/in/aman-kumar-2703rc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- 📫 How to reach me **ar96788234@gmail.com | https://www.linkedin.com/in/aman-kumar-2703rc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app | hakunamatata-aman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
