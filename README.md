@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Web developer, Data-science learner and AI/ML-Enthusiastic</h3>
+<img src="https://imgs.search.brave.com/Ipcd4wilSJzLV_ChNq4G0RcY6mv5HpKo4SXxzCScAW8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0Lzc3LzM5LzY5/LzM2MF9GXzQ3NzM5/NjkyNV9XYncxQmxK/Y2RwZ0NwamV5aXBz/MVY3S0JpWUVVb1da/aC5qcGc" /img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-20232703&label=Profile%20views&color=0e75b6&style=flat" alt="aman-20232703" /> </p>
 
