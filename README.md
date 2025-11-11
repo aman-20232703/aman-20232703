@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/amankumar" target="blank"><img src="https://img.shields.io/twitter/follow/amankumar?logo=twitter&style=for-the-badge" alt="amankumar" /></a> </p>
 
-- 🔭 I’m currently working on **National Park website fullstack project**(coming soon)
+- 🔭 I’m currently working on **Banking Management System fullstack project**(coming soon)
 
-- 🌱 I’m currently learning **Data-science project**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **AL\ML & Data Science Intern as well as Front-End Projects**
 
